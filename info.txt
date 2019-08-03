@@ -1,0 +1,18 @@
+*******************************************
+*** BASIC INFO ****************************
+*******************************************
+
+* Game using SDL2, SDL_Mix, SDL_IMG, SDL_TTF
+* Compiler: Visual Studio 2013
+* Date finished: March 26, 2014
+* Location: Anaheim, California 92804
+
+
+*******************************************
+*** CREDITS *******************************
+*******************************************
+* Sprites created using GIMP2 and aseprite
+* Sounds collected at freesound.org
+* Sounds edits using Audacity
+* Coder - Sang Truong
+* lazyfoo's SDL tutorial
